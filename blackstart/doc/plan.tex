@@ -1,0 +1,40 @@
+\documentclass{article}
+\usepackage{times}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{tabularx}
+
+\begin{document}
+
+\onecolumn
+\title{BLACK START project plan}
+\author{Andrew Zonenberg}
+\date{\today}
+\maketitle
+
+\begin{abstract}
+The overall goal of the BLACK START project is to design and build a simple microprocessor using homebrew technology. Equipment
+and tooling will be kept as simple as possible to allow others to duplicate our efforts and learn from the process. This
+document will begin as the plan for the project, and gradually evolve into a report describing our work.
+\end{abstract}
+\clearpage
+
+\setcounter{tocdepth}{3}
+\tableofcontents
+\clearpage
+
+%\twocolumn
+\input{intro} \cleardoublepage
+\input{cpu} \cleardoublepage
+\input{mask} \cleardoublepage
+\input{fab}
+
+\pagebreak
+\begin{thebibliography}{99}
+	\bibitem{ellsworth}
+	Jeri Ellsworth, ``Home Chip Fab", Available: http://makerfaire.com/pub/e/2545
+\end{thebibliography}
+
+\end{document}

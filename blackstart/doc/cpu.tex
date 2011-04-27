@@ -1,0 +1,67 @@
+\section{CPU}
+
+\subsection{Overview}
+\paragraph*{}
+\begin{itemize}
+\item 8 bit accumulator
+\item 8-bit address bus
+\item 8-bit data bus
+\item 8-bit IO port memory mapped at 0xFF
+\item 8-bit tristate flag memory mapped at 0xFE
+\end{itemize}
+
+\paragraph*{}
+IO ports:
+\begin{itemize}
+\item TBD
+\end{itemize}
+
+\paragraph*{}
+REGISTERS:
+\begin{itemize}
+\item ACCUM - accumulator
+\item PC - program counter
+\end{itemize}
+
+\subsection{External interface}
+\paragraph*{}
+IO pins:
+\begin{itemize}
+\item Vdd
+\item Vss
+\item Address bus [0...7]
+\item Data bus [0...7]
+\item GPIO port [0...7]
+\end{itemize}
+
+\subsection{Instruction set}
+\paragraph*{}
+INSTRUCTIONS:
+\begin{itemize}
+\item Foo
+\end{itemize}
+
+\paragraph*{}
+Multi-cycle design. Pipelined or static? How to handle hazards?
+
+\paragraph*{}
+Actions during execution:
+\begin{itemize}
+\item output program counter to address bus
+\item strobe read-enable line
+\item read data bus into instruction latch
+\item PCADD = 1
+\item PCMUX source = PC+PCADD
+\item switch on instruction, do stuff
+\item Load new PC value from PCMUX
+\end{itemize}
+
+\paragraph*{}
+Components needed:
+\begin{itemize}
+\item 8-bit latch for program counter
+\item 8-bit ripple-carry adder for incrementing program counter
+\item PCADD: 8-bit constant to be added to PC
+\item ADDMUX: 2-mux for address bus: either PC or ADDR register
+\item PCMUX: 2-mux for new PC value: either PCADD or ADDR register
+\end{itemize}
