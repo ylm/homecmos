@@ -1,0 +1,188 @@
+// Technology file for default
+//
+//   Name   Purpose  gds_num  gds_dtyp   RGBA    sel?  vis?  fillstyle linestyle
+LAYER		N-well	drawing	0	0	(0,85,0,255)	t	t	dots3	plain ;
+LAYER		N+	drawing	1	0	(0,85,0,255)	t	t	dots2	custom8 ;
+LAYER		P+	drawing	2	0	(170,170,0,255)	t	t	dots2	plain ;
+LAYER		Active	routing	3	0	(255,255,255,255)	t	t	dots1	plain ;
+LAYER		Poly	drawing	4	0	(255,0,0,255)	t	t	dots3	plain ;
+LAYER		ActM1	drawing	5	0	(255,255,255,255)	t	t	cross	plain ;
+LAYER		PolyM1	drawing	6	0	(255,255,255,255)	t	t	cross	plain ;
+LAYER		M1	routing	7	0	(0,0,255,255)	t	t	zagr	plain ;
+LAYER		V1	drawing	8	0	(255,255,255,255)	t	t	cross	plain ;
+LAYER		M2	routing	9	0	(0,255,255,255)	t	t	dots2	plain ;
+// Vias
+VIA PolyM1
+Poly drawing -5 -5 5 5
+PolyM1 drawing -2.5 -2.5 2.5 2.5
+M1 routing -5 -5 5 5;
+
+VIA ActiveM1
+Active routing -5 -5 5 5
+ActM1 drawing -2.5 -2.5 2.5 2.5
+M1 routing -5 -5 5 5;
+
+VIA M1_M2
+M1 routing -5 -5 5 5
+V1 drawing -2.5 -2.5 2.5 2.5
+M2 routing -5 -5 5 5;
+// Layer function.
+//
+FUNCTION M1 net ROUTING;
+FUNCTION M2 net ROUTING;
+//
+// Spacing rules.
+//
+MINWIDTH Active drawing 5;
+MINSPACE Active drawing 5;
+MINWIDTH N-well drawing 5;
+MINSPACE N-well drawing 5;
+MINWIDTH N+ drawing 5;
+MINSPACE N+ drawing 5;
+MINWIDTH P+ drawing 5;
+MINSPACE P+ drawing 5;
+MINWIDTH Poly drawing 5;
+MINSPACE Poly drawing 5;
+MINWIDTH M1 routing 5;
+MINSPACE M1 routing 5;
+MINWIDTH M2 routing 5;
+MINSPACE M2 routing 5;
+// Line Styles.
+//
+//   Name  Width  Style
+LINE	plain	0	SOLID ;
+LINE	thicksolid	4	SOLID ;
+LINE	thick	2	SOLID ;
+LINE	dashed2	2	DASH ;
+LINE	dotted	0	DOT ;
+LINE	dashdot	0	DASHDOT ;
+LINE	dashdotdot	0	DASHDOTDOT ;
+LINE	dashdotdot	0	DASHDOTDOT ;
+LINE	dashdot	0	DASHDOT ;
+LINE	dotted	0	DOT ;
+LINE	dashed2	2	DASH ;
+LINE	thick	2	SOLID ;
+LINE	thicksolid	4	SOLID ;
+LINE	plain	0	SOLID ;
+LINE	dashdotdot	0	DASHDOTDOT ;
+LINE	dashdot	0	DASHDOT ;
+LINE	dotted	0	DOT ;
+LINE	dashed2	2	DASH ;
+LINE	thick	2	SOLID ;
+LINE	thicksolid	4	SOLID ;
+LINE	plain	0	SOLID ;
+//
+// Stipple Patterns.
+//
+//  Name  Type  Fill pattern
+STIPPLE	zagl	STIPPLE
+			0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 
+			0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 
+			0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 
+			1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 
+			0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 
+			0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 
+			0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 
+			1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 
+			0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 
+			0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 
+			0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 
+			1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 
+			0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 
+			0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 
+			0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 
+			1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 
+			 ;
+STIPPLE	zagr	STIPPLE
+			1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 
+			0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 
+			0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 
+			0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 
+			1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 
+			0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 
+			0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 
+			0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 
+			1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 
+			0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 
+			0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 
+			0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 
+			1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 
+			0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 
+			0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 
+			0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 
+			 ;
+STIPPLE	dots1	STIPPLE
+			1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 
+			0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 
+			1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 
+			0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 
+			1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 
+			0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 
+			1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 
+			0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 
+			1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 
+			0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 
+			1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 
+			0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 
+			1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 
+			0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 
+			1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 
+			0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 
+			 ;
+STIPPLE	dots2	STIPPLE
+			0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 
+			0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+			0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 
+			0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+			0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 
+			0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+			0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 
+			0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+			0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 
+			0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+			0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 
+			0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+			0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 
+			0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+			0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 
+			0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+			 ;
+STIPPLE	dots3	STIPPLE
+			0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 
+			0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+			0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+			0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+			0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 
+			0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+			0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+			0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+			0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 
+			0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+			0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+			0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+			0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 
+			0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+			0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+			0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+			 ;
+STIPPLE	solid	SOLID ;
+STIPPLE	empty	HOLLOW ;
+STIPPLE	cross	CROSSED ;
+STIPPLE	brick	STIPPLE
+			1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+			0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 
+			0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 
+			0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 
+			1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+			0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
+			0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
+			0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
+			1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+			0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 
+			0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 
+			0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 
+			1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+			0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
+			0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
+			0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
+			 ;
