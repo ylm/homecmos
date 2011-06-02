@@ -6,7 +6,6 @@
 
 \title{Garage MEMS: DIY fabrication of a 10um pitch comb drive}
 \author{Andrew Zonenberg\\
-	Department of Computer Science\\
 	Rensselaer Polytechnic Institute\\
 	110 8th Street\\
 	Troy, New York U.S.A. 12180\\
@@ -33,9 +32,9 @@ contact aligner in a cleanroom for exposure, however. The author improved on thi
 \cite{DiyFab} by printing on overhead transparency film and performing the reduction with a
 modified metallurgical microscope to get slightly smaller feature sizes.
 
-\section{Experimental setup and results}
+\section{Process outline}
 
-\subsection{Etching and patterning}
+\subsection{Hardmask}
 \paragraph*{}
 One of the problems facing a hobbyist microfabrication lab is the lack of RIE capability, requiring
 wet etching for all patterning. $KOH$-IPA-water has been widely characterized in the literature (for
@@ -56,7 +55,26 @@ Preliminary research suggested that $Ta_2O_5$ might be a suitable choice as it h
 \cite{Christiansen} and others to be extremely resistant to $KOH$ but can be etched by dilute $HF$
 solutions. Furthermore, $Ta_2O_5$ can be deposited by the sol-gel method (\cite{Dielectric}). The
 author selected Emulsitone Tantalumfilm for this experiment, which does not specifically mention
-$KOH$ in the datasheet (\cite{Taf}) but will dissolve in 10\% $ HF$ in 100 sec.
+$KOH$ in the datasheet (\cite{Taf}) but will dissolve in 10\% $HF$ in 100 sec.
+
+\subsection{Wafer thinning}
+\paragraph*{}
+The maximum aspect ratio achieved by \cite{SmoothWalls} was approximately 10. At $5 \mu m$ feature
+size, this limits the maximum height of the comb drive fingers to around $50 \mu m$. This is too
+thin to be easily handled so a support structure will be added around the rim of the device.
+
+\paragraph*{}
+Both sides of the wafer are masked with $Ta_2O_5$ and photoresist, then the back side is patterned
+with a mask containing a square cutout surrounded by a ~1mm square ring. After developing and
+hardmask etching the wafer is etched from back to front until the central portion of the die has
+been thinned to around $80 \mu m$. After a second photoresist coating, the front side of the die is
+patterned with the comb drive pattern and the hardmask is etched; leaving the thinned portion of the
+wafer unprotected. The die is then etched from both sides, leaving the comb drive fingers on a
+$35 \mu m$ membrane surrounded by a 1mm ring of $525 \mu m$ Si for handling.
+
+\section{Experimental setup and results}
+\paragraph*{}
+ASDF
 
 \section{Conclusions}
 \paragraph*{}
