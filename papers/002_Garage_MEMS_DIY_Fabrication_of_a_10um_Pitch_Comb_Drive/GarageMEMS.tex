@@ -34,9 +34,29 @@ contact aligner in a cleanroom for exposure, however. The author improved on thi
 modified metallurgical microscope to get slightly smaller feature sizes.
 
 \section{Experimental setup and results}
+
+\subsection{Etching and patterning}
 \paragraph*{}
 One of the problems facing a hobbyist microfabrication lab is the lack of RIE capability, requiring
-wet etching for all patterning. KOH has been widely char
+wet etching for all patterning. $KOH$-IPA-water has been widely characterized in the literature (for
+example \cite{SmoothWalls}) as an anisotropic etch that is very selective for $<100>$ and $<110>$
+planes and has a much lower etch rate along the $<111>$ plane.
+
+\paragraph*{}
+Many common positive photoresists, such as the Shipley SP24 used in this paper, use weak alkaline
+solutions as a developer (the author typically uses a 1\% wt. solution of $NaOH$ in distilled water)
+and will not survive exposure to the far more concentrated (25\% $KOH$) alkalis used for etching of
+$Si$. Thermal oxide can be used as a hardmask for shallow etches, but $SiO_2$ is slowly etched by $KOH$
+and is not suitable for deep ($>10 \mu m$) etches; typical processes for deep etching use LPCVD
+$Si_3N_4$ as a hardmask.
+
+\paragraph*{}
+Due to the lack of LPCVD capabilities the author was forced to select an alternate hardmask.
+Preliminary research suggested that $Ta_2O_5$ might be a suitable choice as it has been reported by
+\cite{Christiansen} and others to be extremely resistant to $KOH$ but can be etched by dilute $HF$
+solutions. Furthermore, $Ta_2O_5$ can be deposited by the sol-gel method (\cite{Dielectric}). The
+author selected Emulsitone Tantalumfilm for this experiment, which does not specifically mention
+$KOH$ in the datasheet (\cite{Taf}) but will dissolve in 10\% $ HF$ in 100 sec.
 
 \section{Conclusions}
 \paragraph*{}
@@ -76,6 +96,11 @@ Foo
 	C. Chaneliere, J. L. Autran, R. A. B. Devine, B. Balland, ``Tantalum pentoxide ($Ta_2O_5$) thin
 	films for advanced dielectric applications", 1998, Materials Science and Engineering, R22,
 	269-322
+	
+	\bibitem{SmoothWalls}
+	V. K. Dwivedi, R. Gopal, S. Ahmad, ``Fabrication of very smooth walls and bottoms of silicon
+	microchannels for heat dissipation of semiconductor devices", Microelectronics Journal
+	Volume 31, Issue 6, 30 June 2000, Pages 405-410 
 
 \end{thebibliography}
 
