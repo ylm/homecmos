@@ -13,12 +13,40 @@ were still present.
 Cleaved wafer perpendicular to flat, broke smaller piece parallel to flat and created 7 dies ~2mm
 square from resulting piece. Placed in gel box #5, positions A1-A7.
 
-A1: Very uneven coating, some large holes, but a few good areas.
-A2: Lots of midsized pinholes
-A3: Pretty even, lots of medium-small pinholes
-A4: Thicker coating, a few large holes, some small ones
-A5: One large hole, a few small ones. Even coating.
-A6: Very even, a few medium-small holes.
-A7: Extremely uneven (edge of wafer). Larger pinholes.
+Initial inspection at 10x/30x.
+A1: Very uneven coating, some large holes, but a few good areas. Yellow plus some purple rings.
+A2: Lots of midsized pinholes. Pink to orange.
+A3: Pretty even, lots of medium-small pinholes. Yellow.
+A4: A few large holes, some small ones. Deep purple.
+A5: One large hole, a few small ones. Even coating. Yellow.
+A6: Very even, a few medium-small holes. Yellow.
+A7: Extremely uneven (edge of wafer). Larger pinholes. Purple.
+
+Coating appears relatively thick - 150-200nm.
+
+Etched die A2 in 3% HF for 5 minutes at room temperature. No detectable thinning of film.
+
+Etched die A2 in 3% HF for 5 minutes at 50C (water bath). Most of the film was removed, some traces
+left in thicker areas. After another 5 minutes all but the thickest spots are gone. More heat is
+probably advisable for future etches.
+
+Prepared developer - 550mg NaOH in 50ml distilled water.
+
+Spin coated die A6 in Shipley SP24 photoresist. Exposed 15um half-pitch test pattern for 12 minutes
+using 40x objective and microscope halogen lamp. Developed, looks pretty sharp.
+
+Etched hardmask on A6 in 3% HF for 5 minutes in 65C water bath. Poor photoresist adhesion observed,
+hardmask not entirely etched. Baked wafer on hot plate for 5 minutes in hopes of improving adhesion
+of remaining resist. Many of the stress patterns disappeared, indicating successful increase in
+adhesion. (Photoresist was later found floating in Rinse 1 bath indicating thermal shock from
+heated HF to cold rinse as a possible source of adhesion problems.)
+
+Returned A6 to HF for 3 minutes. Hardmask is not quite gone in surrounding areas, needs a little
+more time. Etched hardmask for another 3 minutes.
+
+Prepared 30% KOH / 15% IPA / 55% distilled water etchant:
+15 g KOH dissolved in 27.5ml distilled water, followed by 7.5 ml 99% IPA.
+
+Etched die A7 for 5 minutes at 85C (expected etch depth 6um).
 
 --------------------------------------------------
