@@ -44,9 +44,14 @@ heated HF to cold rinse as a possible source of adhesion problems.)
 Returned A6 to HF for 3 minutes. Hardmask is not quite gone in surrounding areas, needs a little
 more time. Etched hardmask for another 3 minutes.
 
+Hardmask still not fully penetrated, but PR is flaking off still. Aborted processing and returned
+A6 to gel box for future analysis.
+
+--------------------------------------------------
+
+Scheduled for June 8:
+
 Prepared 30% KOH / 15% IPA / 55% distilled water etchant:
 15 g KOH dissolved in 27.5ml distilled water, followed by 7.5 ml 99% IPA.
 
 Etched die A7 for 5 minutes at 85C (expected etch depth 6um).
-
---------------------------------------------------
