@@ -61,7 +61,7 @@ from stirrer was observed, beaker was removed from heat and spatter removed from
 After cooling, beaker was gently reheated to 65C while stirring slowly.
 
 Etched die B7 for 5 minutes at 65C (expected etch depth 2.5um). Returned to heat at 80C for another
-5 mins to ensure a deep etch. No agitation during etch.
+5 mins to ensure a deep etch (expected depth 6.25um, total 8.75 um). No agitation during etch.
 
 Very nice etching observed, snapped a few pictures. Placed water bath on hot plate to preheat before
 etching.
