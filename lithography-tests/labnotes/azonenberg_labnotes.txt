@@ -90,3 +90,26 @@ bubbling of photoresist observed but it stayed mostly intact.
 
 Stripped photoresist in acetone. Die now appears almost blank, looks like hardmask is gone. Returned
 B6 to die tray and stopped work for the night.
+
+--------------------------------------------------
+
+June 9:
+
+Placed die A3 (fairly even gold color) in petri dish containing colloidal silica and rubbed against
+bottom of dish for 1 minute. Film was slightly abraded but far from removed. Some pinholes grew
+in size. Returned to die tray.
+
+Cleaved a small piece of <100> SSP Si from a 2-inch wafer. Cleaned in acetone and IPA, baked on
+hot plate at 80C for 2 min.
+
+Prepared a solution of 2 drops Tantalumfilm in 5 drops denatured alcohol; spin coated one drop onto
+test wafer at maximum speed. Coating had pinholes due to surface contamination.
+
+Stripped coating by rubbing with denatured alcohol and a Texwipe. Some traces remained around edges
+but center was clear. Cleaned wafer in acetone and IPA; baked on hot plate at 110C for 2 min.
+
+Spin coated using 2:5 dilution of Tantalumfilm in denatured alcohol. A deep blue-violet film
+resulted, changing to brown as the solvent evaporated. Estimated film thickness 65nm.
+
+Baked in air for 1 hour at 200C. No significant color change. Placed in 2-inch cassette for future
+processing.
