@@ -70,3 +70,23 @@ Stripped hardmask with 3% HF in 70C water bath for 15 minutes. Some traces of ha
 spots but almost entirely removed.
 
 Processing on B7 completed, ready for SEM imaging. Returned to gel tray.
+
+Removed B3-B6 from gel tray (all are similar condition; yellow with a few pinholes) and spin coated
+with SP24 resist for ~30 sec. Soft baked at 85C for 30 seconds. Most dies stuck to carrier wafer
+and were scratched during removal.
+
+Exposed first die for 30 sec using new 1W UV LED. Developed, severely underexposed. Placed in gel
+tray at B3.
+
+Exposed second die for 60 sec. Developed, also underexposed. Placed in gel tray at B4.
+
+Exposed third die for 5 mins. Developed, most fine features obliterated. Looks overexposed. Placed
+in gel tray at B5. Might try etching later since the FOV ring is intact.
+
+Exposed fourth die for 2 mins. Looks slightly out of focus; UV method definitely needs some tweaks.
+
+Hard baked B6 at 110C for 60 sec. Wet etched in 3% HF in 75C water bath for 15 minutes. Serious
+bubbling of photoresist observed but it stayed mostly intact.
+
+Stripped photoresist in acetone. Die now appears almost blank, looks like hardmask is gone. Returned
+B6 to die tray and stopped work for the night.
