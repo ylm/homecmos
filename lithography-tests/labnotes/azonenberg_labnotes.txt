@@ -49,9 +49,24 @@ A6 to gel box for future analysis.
 
 --------------------------------------------------
 
-Scheduled for June 8:
+June 8:
+
+Cleaved several more dies out of Ta2O5-coated wafer. Placed in gel box #5, positions A8 - C2.
+Cell B2 was skipped due to poor adhesion.
 
 Prepared 30% KOH / 15% IPA / 55% distilled water etchant:
-15 g KOH dissolved in 27.5ml distilled water, followed by 7.5 ml 99% IPA.
+7.5 ml 99% IPA dissolved in 27.5ml distilled water, followed by 15 g KOH under low heat. Spattering
+from stirrer was observed, beaker was removed from heat and spatter removed from hot plate surface.
 
-Etched die A7 for 5 minutes at 85C (expected etch depth 6um).
+After cooling, beaker was gently reheated to 65C while stirring slowly.
+
+Etched die B7 for 5 minutes at 65C (expected etch depth 2.5um). Returned to heat at 80C for another
+5 mins to ensure a deep etch. No agitation during etch.
+
+Very nice etching observed, snapped a few pictures. Placed water bath on hot plate to preheat before
+etching.
+
+Stripped hardmask with 3% HF in 70C water bath for 15 minutes. Some traces of hardmask left in thick
+spots but almost entirely removed.
+
+Processing on B7 completed, ready for SEM imaging. Returned to gel tray.
