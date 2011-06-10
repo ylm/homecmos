@@ -113,3 +113,6 @@ resulted, changing to brown as the solvent evaporated. Estimated film thickness 
 
 Baked in air for 1 hour at 200C. No significant color change. Placed in 2-inch cassette for future
 processing.
+
+Diced wafer and placed in die tray at C5 - E5. Initial visual inspection of film quality: some
+pinholes but overall quite good.
