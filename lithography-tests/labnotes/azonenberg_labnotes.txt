@@ -116,3 +116,32 @@ processing.
 
 Diced wafer and placed in die tray at C5 - E5. Initial visual inspection of film quality: some
 pinholes but overall quite good.
+
+--------------------------------------------------
+
+June 11:
+
+Etched die D3 in 3% HF for 5 mins at 35C (bath had not been allowed to heat adequately). No etching
+observed. Waited for bath to heat to 55C and etched for 5 minutes. Light brown areas of coating were
+completely removed; thicker areas remained in part. Returned to die tray.
+
+Spin coated die C8 in SP24 photoresist; soft baked on hot plate for 30 sec at 100C.
+
+Exposed companion cube test mask for 15 minutes using halogen-exposure process and 40x objective.
+Did not develop properly for reasons unknown. Stripped resist in acetone and re-coated. Soft baked
+for 15 sec.
+
+Exposed 10um pitch ruler as contact mask for 5 mins using 1W UV LED. Developed and hard baked for
+90 sec on 110C hot plate.
+
+Etched in 3% HF for 5 mins at ~80C. Photoresist still severely damaged. Stripped in acetone, all
+features obliterated. Returned C8 to die tray.
+
+Spin coated C9 in photoresist, soft baked for 30 sec.
+
+Exposed 400um pitch ruler as contact mask for 5 mins using 1W UV LED. Developed, etched for 2 mins
+in 3% HF at ~80C. No excessive PR damage observed. Stripped PR in acetone. Unsure if hardmask was
+completely etched or not, coating is very thin and hard to observe.
+
+Wet etched in KOH for 2 mins at ~60C. Looks like hardmask was not completely penetrated. Returned
+C9 to die tray.
