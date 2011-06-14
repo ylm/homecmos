@@ -145,3 +145,25 @@ completely etched or not, coating is very thin and hard to observe.
 
 Wet etched in KOH for 2 mins at ~60C. Looks like hardmask was not completely penetrated. Returned
 C9 to die tray.
+
+--------------------------------------------------
+
+June 13:
+
+Spin coated die C10 in SP24 resist (slow speed for thick coating), soft baked 90 sec at 80C. Exposed
+15 minutes using halogen microscope lamp and developed.
+
+Hard baked 5 mins at 125C. Slight bubbling was observed. Allowed to cool, baked another 3 mins at
+130C. No additional bubbling observed, looks like resist is adequately outgassed.
+
+Wet etched 2 mins in dilute HF in 85C water bath. Some etching observed but some PR degradation.
+Much improved over previous etches, more baking might help more.
+
+Returned to HF for 4 minutes. Can't tell if hardmask is etched through.
+
+Stripped resist in acetone, pattern was almost obliterated. Returned C10 to die tray.
+
+Spin coated D2 in SP24 resist at low speed, soft baked 60 sec at 130C with silicon spacer.
+
+Exposed cross pattern for 5 minutes using UV LED. Developed but did not hard bake, returned to die
+tray for future processing.
