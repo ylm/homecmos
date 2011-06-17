@@ -167,3 +167,33 @@ Spin coated D2 in SP24 resist at low speed, soft baked 60 sec at 130C with silic
 
 Exposed cross pattern for 5 minutes using UV LED. Developed but did not hard bake, returned to die
 tray for future processing.
+
+--------------------------------------------------
+
+June 16:
+
+Spin coated five dies (D6-7-8-9, E4) in SP24 resist. Preparation: acetone rinse, IPA rinse,
+dehydration bake for 3 min on 140 C hot plate. Used low speed for thick film.
+
+Soft baked all dies for 60 sec on 120 C hot plate, moved to hot carrier wafer for 2 min, let cool.
+
+Exposed all dies for 8 mins using UV LED and contact mask, developed.
+
+No hard bake.
+
+Prepared five etch tubes:
+A - distilled water
+B - 3% HF
+C - HCl solution diluted to same pH as HF
+D - 3% HF buffered to near-neutral pH with NaOH
+E - 3% HF
+
+Heated all tubes but E in 61C water bath, etched 5 mins.
+
+Suctioned etchants, rinsed, imaged.
+
+A - no visible damage. Returned to die tray, D6.
+B - lots of small bubbles, one big chunk cracked off. Returned to die tray, D7.
+C - No visible damage. Returned to die tray, D8.
+D - completely obliterated, no trace of resist. Returned to die tray, D9.
+E - lots of big chunks broken off. Returned to die tray, E4.
