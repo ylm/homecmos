@@ -197,3 +197,23 @@ B - lots of small bubbles, one big chunk cracked off. Returned to die tray, D7.
 C - No visible damage. Returned to die tray, D8.
 D - completely obliterated, no trace of resist. Returned to die tray, D9.
 E - lots of big chunks broken off. Returned to die tray, E4.
+
+--------------------------------------------------
+
+June 17:
+
+Scribed several more dies out of blank <100> wafer, placed in die tray (E7:F3).
+
+Spin coated E7 in SP24 resist, soft baked 60 sec, exposed companion cube 15 mins under microscope
+at 10x objective, developed. No hard bake.
+
+Spin coated E7 and E8 in 2:5 dilution of Tantalumfilm in denatured alcohol.
+
+Tested un-baked Tantalumfilm on E8 for acetone resistance, no degradation observed.
+
+Inspected E7 under microscope, good lift-off profile visible.
+
+Lifted off E7 in acetone with gentle rubbing of a cleanroom swab. Sonication would be preferable
+but no ultrasonic cleaner was available and this was just a test.
+
+Results were very good, took several images. Baked E7 at 200C for 1 hour, returned to die tray.
