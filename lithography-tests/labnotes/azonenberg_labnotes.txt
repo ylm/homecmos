@@ -217,3 +217,16 @@ Lifted off E7 in acetone with gentle rubbing of a cleanroom swab. Sonication wou
 but no ultrasonic cleaner was available and this was just a test.
 
 Results were very good, took several images. Baked E7 at 200C for 1 hour, returned to die tray.
+
+--------------------------------------------------
+
+June 18:
+
+Etched E7 in 30% KOH / 15% IPA for 5 mins at 85C. 
+
+Visually inspected under microscope, some black contamination (not sure what). Etch isn't that deep,
+stuck it back in the KOH for another 5 mins.
+
+Stripped hardmask in 3% HF for 5 mins in water bath. Contamination still present, not identified.
+
+Returned E7 to die tray.
