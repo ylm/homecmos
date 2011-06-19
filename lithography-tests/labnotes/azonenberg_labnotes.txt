@@ -230,3 +230,37 @@ stuck it back in the KOH for another 5 mins.
 Stripped hardmask in 3% HF for 5 mins in water bath. Contamination still present, not identified.
 
 Returned E7 to die tray.
+
+--------------------------------------------------
+
+June 19:
+
+Spin coated E9 and E10 in SP24 resist, soft baked 60 sec at 80C.
+
+Preparation: 90 sec dehydration bake at 80C, acetone rinse, blow dry.
+
+Exposed darkfield companion cube mask on E9 through camera tube with Mag-Lite for 15 minutes using
+10x objective, developed. Some areas underexposed due to uneven illumination, imperfect focus, but
+most features resolved.
+
+Spin coated E9 with one drop of undiluted Tantalumfilm. Some damage to resist observed, possibly
+from solvent?
+
+Lifted off, severe damage to film visible. Need thicker layer next time.
+
+Returned E9 to die tray.
+
+Exposed darkfield companion cube mask on E10 thorough camera tube with Mag-Lite for 15 minutes using
+10x objective, developed.
+
+Spin coated E10 with one drop of undiluted Tantalumfilm at maximum speed. Coverage in low-lying
+areas was poor.
+
+Wondering if contamination on die after developing is responsible. Placed one drop of IPA onto die,
+blew dry.
+
+Spin coated with another drop of Tantalumfilm, using lower speed. Poorer lift-off profile observed.
+
+Lifted off in acetone. Decent results - film looks undamaaged, but some residue around desired areas.
+
+Baked E10 in air at 200C for 1 hour. Done at 02:58.
