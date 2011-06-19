@@ -263,4 +263,7 @@ Spin coated with another drop of Tantalumfilm, using lower speed. Poorer lift-of
 
 Lifted off in acetone. Decent results - film looks undamaaged, but some residue around desired areas.
 
-Baked E10 in air at 200C for 1 hour. Done at 02:58.
+Baked E10 in air at 200C for 1 hour. Some cracking observed.
+
+Etched in 30% KOH at 95C for 5 mins. Hardmask appears to have broken off - thermal shock? Some
+traces of patterns still visible. Need to try less aggressive etch.
