@@ -267,3 +267,20 @@ Baked E10 in air at 200C for 1 hour. Some cracking observed.
 
 Etched in 30% KOH at 95C for 5 mins. Hardmask appears to have broken off - thermal shock? Some
 traces of patterns still visible. Need to try less aggressive etch.
+
+--------------------------------------------------
+
+June 20:
+
+Spin coated F1 with SP24 resist. Preparation: acetone rinse, blow dry.
+
+Soft baked at 70 C for 90 sec.
+
+Exposed darkfield companion cube mask at 10 objective through photo port for 15 minutes.
+
+Die slipped out of tweezers during developing and was slightly overdeveloped.
+
+Spin coated with one drop of Tantalumfilm at moderate speed.
+
+Tantalumfilm was allowed to soak too long, photoresist degraded. Aborted processing, returning to
+die tray. Forgot to take pictures before coating.
