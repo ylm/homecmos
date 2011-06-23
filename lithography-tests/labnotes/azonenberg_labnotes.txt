@@ -284,3 +284,16 @@ Spin coated with one drop of Tantalumfilm at moderate speed.
 
 Tantalumfilm was allowed to soak too long, photoresist degraded. Aborted processing, returning to
 die tray. Forgot to take pictures before coating.
+
+--------------------------------------------------
+
+June 22:
+
+Prepared several short pieces of 406 micron tungsten wire and 5 mL of 20% KOH solution.
+
+Electropolished one piece of wire for 5 minutes at 140 mA (2VDC) until wire broke. Looks very sharp,
+almost definitely submicron tip.
+
+Repeated for another probe. Duller (a micron or so?), possibly not immersed deep enough.
+
+
