@@ -305,3 +305,15 @@ Prepared solution of 4 ml distilled water : 500mg KOH.
 Etched three probes at 3VDC. Nice tips but not super sharp, 2um ish.
 
 Going to try building a more repeatable power supply in the future.
+
+--------------------------------------------------
+
+June 25:
+
+Prepared several more specimens from <100> Si (doping unknown), placed in die tray at F4:G3.
+
+Spin coated dies F2:G3 with SP24 resist, soft baked 60 sec at 80C.
+
+Three dies had severe edge rings, stripped and returned to die tray (F2:F4). Remaining dies looked
+good, placed in gel tray in light-tight bag (F5:G3) for future work. No time to run any litho
+experiments tonight.
