@@ -317,3 +317,40 @@ Spin coated dies F2:G3 with SP24 resist, soft baked 60 sec at 80C.
 Three dies had severe edge rings, stripped and returned to die tray (F2:F4). Remaining dies looked
 good, placed in gel tray in light-tight bag (F5:G3) for future work. No time to run any litho
 experiments tonight.
+
+--------------------------------------------------
+
+June 27:
+
+Tried making probe tips again. Etched 120 sec at 3V, followed by 1.0V until snapping.
+
+First try was decent but no record.
+
+Second attempt looks to be 1.05 um diameter / ~500nm radius.
+
+Exposed die F6 for 15 mins using darkfield companion cube at 100x. Developed, hard baked 120 sec at
+140C. As expected, some underexposed areas due to flashlight exposure but otherwise fine.
+
+Spin coated one drop of 30% Tantalumfilm in denatured alcohol at high speed. Coating was patchy
+as expected, brown.
+
+Applied a second coat, one layer at high speed, without baking. Coating was uneven but a bit
+thicker, blue.
+
+Applied a third coat, one layer at high speed, without baking. Blue to yellow.
+
+Lifted off resist in acetone, looks very good. Preheated oven to 200C while processing F9,
+stuck F6 in die tray in the meantime.
+
+Processed F9 in same manner as F6, stopped before hard bake, returned to die tray.
+
+Processed G2 in same manner as F6, stopped before hardmask deposition. Hot plate heated to 160C
+since then. Returned to die tray.
+
+Baked F6 in air at 200C for 60 mins. Done at 1:47.
+
+Dies to do later:
+TODO: after etch?
+TODO: before hardmask bake
+TODO: before lift-off
+TODO: before hard bake
