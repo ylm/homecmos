@@ -357,3 +357,32 @@ TODO: before hard bake
 
 Samples to SEM image (in order of priority):
 Left hand probe tip, F6, G2, F9, E10, C9, C6, E5.
+
+--------------------------------------------------
+
+June 28:
+
+Brought tray 5 up to campus, temporarily storing today's runs in tray 6 until done with SEM work
+on Thurs.
+
+Processed G3 in same manner as F6. Hardmask still has strange black particles in it, some chipping
+on edges. Baked for 1 hour at 200C.
+
+Processed F7 in same manner as F6 but used one drop of full-strength Tantalumfilm. Totally black
+surface, still no idea what it is. Baked one hour at 200C.
+
+Etched G3 for two 1 min periods in 30% KOH (no IPA) at 60C. Looks good so far but needs more time.
+
+Etched G3 another 2 mins nonstop. Hardmask appears to have degraded.
+
+Removed F7 from oven, inspected. No signs of thermal cracking.
+
+Etched F7 for 1 min in 30% KOH at ~80C. Hardmask started to degrade after first etch step,
+thermal shock? Stopped KOH etching, stripped hardmask in 3% HF in 60C water bath for 90 sec.
+
+Not stripped completly, left in bath for another 5 mins. Strange crystals visible. pH strip
+shows slight alkalinity (pH ~9) in rinse water, this may be the problem. Changed rinse water.
+
+Replaced acid in etch tube, stripped for 10 mins. Still not removed.
+
+Going to repeat experiment tomorrow with separate rinse for acid and base steps.
