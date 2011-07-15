@@ -444,4 +444,15 @@ underexposed but many holes resolved.
 Spin coated with one drop of dilute Tantalumfilm, lifted off in beaker of acetone to avoid surface
 contaminants drying. Results look pretty good.
 
-Baked both dies in air at 200C for 1 hour. Will be done at 01:48.
+Baked both dies in air at 200C for 1 hour. Slight cracking observed.
+
+Etched first die in 30% KOH at 85C for 2 min. Hardmask broke off.
+
+Returned to die tray, G4.
+
+Etched second die in 30% KOH at 85C for 30 sec. Not much etching observed, tossed in another 30 sec.
+Repeated once more.
+
+Stripped in 3% HF at 85C for 1 min. Hardmask not removed, stripped another 10 mins.
+
+Not completely stripped (but visibly thinned), out of time for tonight. Returned to die tray, G5.
