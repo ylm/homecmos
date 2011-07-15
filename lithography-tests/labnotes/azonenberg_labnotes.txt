@@ -386,3 +386,22 @@ shows slight alkalinity (pH ~9) in rinse water, this may be the problem. Changed
 Replaced acid in etch tube, stripped for 10 mins. Still not removed.
 
 Going to repeat experiment tomorrow with separate rinse for acid and base steps.
+
+--------------------------------------------------
+
+Jul 5 and 11:
+
+Imaged several samples (F6, F7, G2, G3) and one probe tip under JEOL JSM-840 scanning electron microscope after sputtering in
+~100A of Pt. Probe tip was bumpy but sharp, final point was roughly cylindrical and 200nm in diameter.
+
+Performed EDS analysis of contaminant on F6.
+
+Results were inconclusive - one particle of brass and one of organic dust were located, but the majority of contaminated
+surface showed nothing but silicon, tantalum chloride, and tantalum oxide.
+
+--------------------------------------------------
+
+Jul 14:
+
+Inspected wafer test dies were taken from under light microscopy. Clearly visible particulate contamination. Current hypothesis
+is that careless handling of wafer during scribing allowed silicon dust to stick to surface.
