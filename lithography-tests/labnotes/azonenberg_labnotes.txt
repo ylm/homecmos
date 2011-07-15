@@ -406,6 +406,16 @@ Jul 14:
 Inspected wafer test dies were taken from under light microscopy. Clearly visible particulate contamination. Current hypothesis
 is that careless handling of wafer during scribing allowed silicon dust to stick to surface.
 
+Created new Glade library lithography_tests/default_600dpi for test patterns optimized for 600DPI printing.
+
+Lambda is 42.333um on the mask or 1.058 um on the dies at 40x reduction. Initial design rules:
+* Minimum axially aligned trench = 5 lambda / 5.290 um 
+* Minimum axially aligned space = 5 lambda / 5.290 um
+* Minimum axially aligned feature = 5 lambda / 5.290 um
+* Reticle size = 500 lambda / 529 um disk
+
+Created test pattern: 20x20 dots, 5 lambda across, 5 lambda spacing. Printed positive and negative versions of mask.
+
 Cleaned two dies by rubbing with cleanroom swab saturated in 70% IPA, then dripping IPA onto
 die and blowing dry. Particle counts decreased significantly, nearly eliminated.
 
