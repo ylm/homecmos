@@ -405,3 +405,33 @@ Jul 14:
 
 Inspected wafer test dies were taken from under light microscopy. Clearly visible particulate contamination. Current hypothesis
 is that careless handling of wafer during scribing allowed silicon dust to stick to surface.
+
+Cleaned two dies by rubbing with cleanroom swab saturated in 70% IPA, then dripping IPA onto
+die and blowing dry. Particle counts decreased significantly, nearly eliminated.
+
+Ran both dies through slightly modified RCA clean:
+* Distilled water soak
+* SC1 (6 ml 3% H2O2 + 1 ml household ammonia @ 85C) for 10 mins
+* Distilled water soak for 1 min
+* 3% HF for 15 sec
+* Distilled water soak for 1 min
+* SC2 (6 ml 3% H2O2 + 1 ml conc HCl) for 10 min
+* Distilled water soak for 1 min
+* Blow dry with R-134A
+
+Spin coated both dies in SP24 resist, soft baked 1 min at 55C.
+
+Exposed 20um dots pattern on first die for 15 mins using maglite.
+
+Developed, all small features obliterated (developer too strong?)
+
+Spin coated with one drop of full strength Tantalumfilm, lifted off in acetone using swab. Some
+residue dried onto die, not sure if this will be enough to contaminate results.
+
+Exposed second 20um holes pattern on second die for 15 mins using maglite, developed. Looks slightly
+underexposed but many holes resolved.
+
+Spin coated with one drop of dilute Tantalumfilm, lifted off in beaker of acetone to avoid surface
+contaminants drying. Results look pretty good.
+
+Baked both dies in air at 200C for 1 hour. Will be done at 01:48.
