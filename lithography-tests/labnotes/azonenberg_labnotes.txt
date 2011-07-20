@@ -456,3 +456,30 @@ Repeated once more.
 Stripped in 3% HF at 85C for 1 min. Hardmask not removed, stripped another 10 mins.
 
 Not completely stripped (but visibly thinned), out of time for tonight. Returned to die tray, G5.
+
+--------------------------------------------------
+
+Jul 19:
+
+Prepared substrates for evaporation tests on Thursday: scribe, wipe with acetone-soaked swab,
+acetone rinse, IPA rinse, blow dry with R-134a.
+
+6A3-6A4: <100> Si, SSP
+6A5-6B7: glass microscope coverslip
+
+Prepared 50% dilution of SP24 resist in acetone.
+
+Exposed an older die with 20um dark-points mask, developed. Spin coated with 1 drop of dilute
+Tantalumfilm, lifted off in acetone. Pattern severely degraded, looks like it had dust under the
+mask. Returned to die tray, G6.
+
+Spin coated G7 and G8 (<100> Si) with diluted resist. Soft baked for 90 sec.
+
+Exposed comb drive test mask through 10x objective on G7 for 10 mins, developed. Beautiful results,
+except for the usual artifacts caused by use of a maglite instead of a uniform light source.
+
+Spin coated in one drop of full strength Tantalumfilm, dried, repeated. Lifted off in acetone.
+Way too much Tantalumfilm, coating didnt lift off fully. Returned to die tray, G7.
+
+Exposed comb drive test mask through 40x objective on G8 for 10 mins, developed. Focuser drifted
+during exposure, blurred beyond usability. Returned to die tray.
