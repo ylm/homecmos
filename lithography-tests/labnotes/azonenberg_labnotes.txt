@@ -474,7 +474,6 @@ Tantalumfilm, lifted off in acetone. Pattern severely degraded, looks like it ha
 mask. Returned to die tray, G6.
 
 Spin coated G7 and G8 (<100> Si) with diluted resist. Soft baked for 90 sec.
-
 Exposed comb drive test mask through 10x objective on G7 for 10 mins, developed. Beautiful results,
 except for the usual artifacts caused by use of a maglite instead of a uniform light source.
 
@@ -483,3 +482,30 @@ Way too much Tantalumfilm, coating didnt lift off fully. Returned to die tray, G
 
 Exposed comb drive test mask through 40x objective on G8 for 10 mins, developed. Focuser drifted
 during exposure, blurred beyond usability. Returned to die tray.
+
+--------------------------------------------------
+
+Jul 20:
+
+Cleaved several tantalum oxide-coated dies out of original test wafer. Cleaned one die in acetone,
+spin coated in 50% diluted SP24 photoresist. Soft baked 90 sec at 75C.
+
+Exposed darkfield companion cube mask at 10x for 10 minutes, developed.
+
+Made centrifuge tube of BOE solution - 3% HF + household ammonia titrated to neutral pH.
+
+Etched die in BOE in 80C water bath for 60 sec. No visible etching.
+
+Returned to BOE bath for 3 mins. Some degradation of mask visible after rinse.
+
+Annealed at 90C for 90 sec.
+
+Returned to BOE bath for 5 mins. Resist severely degraded, no significant attack of hardmask.
+
+Returned to die tray, 5G9.
+
+Spin coated second die in 50% SP24, soft baked 90 sec.
+
+Exposed darkfield companion cube mask at 10x for 10 minutes. Developed, spin coated in full strength
+Tantalumfilm. Rough dark-colored pattern again, looks like photoresist is definitely the contaminant.
+Will test a deliberate mixture of the two tomorrow. Returned to die tray, 5G10.
