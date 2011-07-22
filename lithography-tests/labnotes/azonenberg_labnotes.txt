@@ -509,3 +509,35 @@ Spin coated second die in 50% SP24, soft baked 90 sec.
 Exposed darkfield companion cube mask at 10x for 10 minutes. Developed, spin coated in full strength
 Tantalumfilm. Rough dark-colored pattern again, looks like photoresist is definitely the contaminant.
 Will test a deliberate mixture of the two tomorrow. Returned to die tray, 5G10.
+
+--------------------------------------------------
+
+Jul 21:
+
+Coated several samples with evaporated copper (exact thickness unknown, around 200nm is current
+estimate):
+* Quarter of 2" <100> SSP wafer, bare
+* Quarter of 2" <100> SSP wafer with tantalum oxide thin film
+* Two <100> SSP dies, bare
+* 13 glass substrates (from microscope cover slip)
+
+Inspected glass sample under light microscope. Some slight defects, unsure of cause so far.
+
+Performed "Scotch tape test" on glass sample to test adhesion. Near-complete delamination observed.
+
+Etched glass sample in 3% HF in 70C water bath for 5 mins. Film did not degrade, but delaminated.
+
+Spin coated silicon sample in 50% SP24, soft baked 90 sec at 90C. Exposed comb drive wet etch
+mask at 10x for 10 mins, developed.
+
+Etched 1 min in SC2 at 80C. Photoresist degraded (overetch?). Stripped in acetone, pattern
+obliterated. Returned to die tray, 5H1.
+
+Spin coated silicon sample in 50% SP24, soft baked 90 sec at 90C. Exposed comb drive wet etch
+mask at 10x for 12 mins, developed. 
+
+Wet etched in SC2 at room temperature for 60 sec. Not fully etched, put in for another 60.
+
+Etch appears to have penetrated sideways into Cu film, not sure of reason for this.
+
+Returned to die tray, 5H2.
