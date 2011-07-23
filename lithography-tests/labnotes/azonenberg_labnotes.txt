@@ -541,3 +541,52 @@ Wet etched in SC2 at room temperature for 60 sec. Not fully etched, put in for a
 Etch appears to have penetrated sideways into Cu film, not sure of reason for this.
 
 Returned to die tray, 5H2.
+
+--------------------------------------------------
+
+Jul 22:
+
+Etched Cu-coated glass sample in SC2 until film was removed. Less than 5 seconds to near-complete
+removal (some traces visible).
+
+Scribed Ta2O5 + Cu thin film coated wafer to release several dies, cleaned with acetone rinse + blow
+dry. Placed in die tray, 6C1 - 6C7.
+
+Spin coated one sample in 50% SP24 resist, soft baked 90 sec at 70 C.
+
+Exposed darkfield companion cube mask at 10x for 10 mins, developed.
+
+Wet etched 5 sec in SC2, copper completely removed from exposed areas.
+
+Placed in heated 3% HF, leaving PR intact (mechanical barrier to help hold Cu in place). Etched
+5 mins. Copper separated from oxide layer during rinse, oxide not fully penetrated.
+
+Returned die to HF for 5 more mins. Mask is gone so isotropic etch will widen features, but it may
+be good enough for a PoC.
+
+Too long, all features obliterated. Going to repeat this experiment using 8 min initial etch.
+Returned to die tray, 5H3.
+
+Spin coated one sample in 50% SP24, soft baked 90 sec.
+
+Exposed darkfield companion cube mask at 10x for 10 mins, developed.
+
+Wet etched 5 sec in SC2, copper completely removed from exposed areas.
+
+Placed in heated 3% HF, etched 8 mins. Mask degraded but seems to have survived long enough to have
+a significant effect. If oxide layer is thinner this process should be very successful.
+
+Stripped remaining photoresist and copper in acetone followed by SC2.
+
+Inspected sample under optical microscope. Hardmask is definitely degraded from undercut of Cu, but
+there may be enough left for a shallow etch.
+
+Wet etched 2 mins in 30% KOH, rinsed in water.
+
+Dark precipitate visible on surface of etched areas, not sure what it is. Attempted to remove with
+SC2 at room temp for a few sec, no results. Attempted to remove by swabbing with IPA, no success.
+Attempted to remove with 60C SC2 for 10 mins, no luck.
+
+Stripped hardmask in heated 3% HF for 5 mins.
+
+Returned to die tray, 5H4.
