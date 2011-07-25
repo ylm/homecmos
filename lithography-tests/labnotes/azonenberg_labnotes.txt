@@ -590,3 +590,24 @@ Attempted to remove with 60C SC2 for 10 mins, no luck.
 Stripped hardmask in heated 3% HF for 5 mins.
 
 Returned to die tray, 5H4.
+
+--------------------------------------------------
+
+Jul 24:
+
+Spin coated Cu-coated glass substrate in 50% SP24, soft baked.
+
+Exposed negative twin-spiral mask at 10x for 10 mins, developed. Etched in SC2.
+
+Discovered after rinse that the wrong sample had been used - it was actually Ta2O5 + Cu coated Si.
+Going to cross section this die to measure typical layer thicknesses.
+
+Returned to die tray, 5H5.
+
+Spin coated Cu-coated glass substrate in 50% SP24, soft baked.
+
+Exposed Nyan Cat mask at 40x for 10 mins, developed.
+
+Exposed Nyan Cat mask on same die at 10x for 10 mins, developed.
+
+Etched in SC2. Overetched, possibly due to double exposure weakening resist. Returned to die tray, 5H6.
