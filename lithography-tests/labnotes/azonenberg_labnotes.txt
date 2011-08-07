@@ -611,3 +611,20 @@ Exposed Nyan Cat mask at 40x for 10 mins, developed.
 Exposed Nyan Cat mask on same die at 10x for 10 mins, developed.
 
 Etched in SC2. Overetched, possibly due to double exposure weakening resist. Returned to die tray, 5H6.
+
+--------------------------------------------------
+
+Aug 06:
+
+Spin coated cu-coated Si substrate in 50% SP24, soft baked.
+
+Exposed Nyan Cat mask for 10 mins with 10x objective, developed, hard baked.
+
+Created slow Cu etch based on SC2: 0.1 ml conc. HCl, 0.5 ml 3% H2O2, 5 ml distilled water. Projected etch rate: 350-400nm/min
+assuming linear variation with concentration.
+
+Etched die for 15 sec, stripped in acetone. Layer not fully penetrated.
+
+Re-coated same die, exposed, developed, baked.
+
+Etched die for 30 sec, stripped in acetone. Very good results. Returned to die tray, H7.
