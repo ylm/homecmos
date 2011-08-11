@@ -616,7 +616,7 @@ Etched in SC2. Overetched, possibly due to double exposure weakening resist. Ret
 
 Aug 06:
 
-Spin coated cu-coated Si substrate in 50% SP24, soft baked.
+Spin coated Cu-coated Si substrate in 50% SP24, soft baked.
 
 Exposed Nyan Cat mask for 10 mins with 10x objective, developed, hard baked.
 
@@ -628,3 +628,18 @@ Etched die for 15 sec, stripped in acetone. Layer not fully penetrated.
 Re-coated same die, exposed, developed, baked.
 
 Etched die for 30 sec, stripped in acetone. Very good results. Returned to die tray, H7.
+
+--------------------------------------------------
+
+Aug 11:
+
+Spin coated cu-coated Si substrate in 50% SP24, soft baked.
+
+Exposed ruler mask for 10 mins with 10x objective using fiber-optic illuminator and tissue-paper diffuser. Image was too dim,
+not adequately exposed. Repeated using maglite, developed.
+
+Wet etched in dilute SC2.
+
+Etched die for 8 mins in 80C 3% HF. As with previous samples, delamination of Cu and PR layers (as a unit) was observed
+upon placing sample in rinse water. HF was observed to have penetrated sample through etched holes in Cu. Cr adhesion layer is
+definitely going to be necessary but process appears sound otherwise.
