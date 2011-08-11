@@ -643,3 +643,5 @@ Wet etched in dilute SC2.
 Etched die for 8 mins in 80C 3% HF. As with previous samples, delamination of Cu and PR layers (as a unit) was observed
 upon placing sample in rinse water. HF was observed to have penetrated sample through etched holes in Cu. Cr adhesion layer is
 definitely going to be necessary but process appears sound otherwise.
+
+Returned to die tray, H8.
