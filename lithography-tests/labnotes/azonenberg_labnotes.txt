@@ -645,3 +645,32 @@ upon placing sample in rinse water. HF was observed to have penetrated sample th
 definitely going to be necessary but process appears sound otherwise.
 
 Returned to die tray, H8.
+
+--------------------------------------------------
+
+Aug 15:
+
+Prepared coating solution: 0.2 ml Tantalumfilm in 1.8 ml denatured alcohol.
+
+Placed 2-inch 2SP <110> wafer on spin coater, swabbed with acetone, spin dried.
+
+First attempt at spin coating Tantalumfilm failed: coating beaded up for reasons unknown. Stripped in denatured alcohol
+followed by HF dip to remove native oxide and start clean.
+
+Baked in air at 200C for 10 mins to promote growth of new oxide layer.
+
+Repeated process except without acetone rinse. Same result.
+
+Stripped, soaked wafer in 3% H2O2 (room temp 15 mins, low heat on hot plate 10 mins).
+
+Beginning to suspect that my denatured alcohol is unsuitable for diluting Tantalumfilm. One of the additives destroys
+the proper surface tension.
+
+Re-coated using pure Tantalumfilm. Some pinholes (probably due to residue from previous experiments).
+
+Baked in air for 1 hour at 200C.
+
+Coated other side of wafer with pure Tantalumfilm. Poor coverage for reasons unknown. This can be the back side
+as some defects there are tolerable.
+
+Baked in air 1 hour at 200C.
