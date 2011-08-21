@@ -674,3 +674,43 @@ Coated other side of wafer with pure Tantalumfilm. Poor coverage for reasons unk
 as some defects there are tolerable.
 
 Baked in air 1 hour at 200C.
+
+--------------------------------------------------
+
+Aug 16:
+
+Evaporated ~10nm Cr + ~1000nm Cu over two 2-inch <110> wafers - both sides of 2SP wafer prepared yesterday and polished
+side of a blank 1SP wafer.
+
+--------------------------------------------------
+
+Aug 20:
+
+Cleaved several dies out of CrCu plated <110> wafer. Spin coated one in 50% SP24, soft baked 60 sec, exposed 10 mins
+using maglite, developed. Wet etched in full strength SC2, virtually no detectable overetch.
+
+Attempted to bond die vertically using cyanoacrylate adhesive. Unsuccessful, tipped over and contaminated face. Stripped
+PR/glue in acetone and attempted to re-mount for inspection of copper.
+
+Glued die horizontally to glass microscope cover slip using CA adhesive.
+
+Repeated expose/develop/etch process on a fresh die, mounted in hot glue. Attempted to polish flat using 180 - 1500
+grit sandpaper followed by colloidal silica. Too much chipping, looks like sample needs to be completely buried before
+starting.
+
+Embedded die F9 in 6-minute epoxy resin. Something was wrong with proportions, epoxy did not harden completely.
+
+Spin coated CrCu plated <110> die in 50% SP24, soft baked 60 sec. Exposed nyan cat at 10x reduction for 10 mins,
+developed. Exposed nyan cat at 40x reduction for 11 mins, developed. Overdeveloped a little bit, 5um features were
+damaged but 20 survived. Need to repeat experiment.
+
+Wet etched in SC2.
+
+Wet etched in 30% KOH for 10 mins. Water bath started out at room temp and was placed on 80C hot plate.
+
+Inspected under optical microscope. No signs of attack to copper however Si was not etched very much. Returned to heat
+for another 10 mins.
+
+Copper appears to have bubbles from pinholes. Stripped in SC2.
+
+Si in exposed areas was somewhat attacked but not completely - possibly Cr incompletely etched? Returned to die tray, H9.
