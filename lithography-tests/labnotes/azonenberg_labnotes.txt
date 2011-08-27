@@ -714,3 +714,18 @@ for another 10 mins.
 Copper appears to have bubbles from pinholes. Stripped in SC2.
 
 Si in exposed areas was somewhat attacked but not completely - possibly Cr incompletely etched? Returned to die tray, H9.
+
+--------------------------------------------------
+
+Aug 27:
+
+Cleaned Cu plated <100> die with acetone, spin coated in 50% SP24, soft baked. Exposed 5 lambda grating pattern for 10
+mins at 10x reduction using maglite. Repeated at 40x.
+
+Maglite bulb burned out at unknown time during second exposure. Decided to develop anyway to see how it turned out.
+
+Image was, as expected, weak in most places due to underexposure. Heavy developing brought out some features.
+
+Etched in SC2, stripped in acetone. Imaged uner optical microscope.
+
+Returned to die tray, H10.
