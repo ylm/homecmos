@@ -684,48 +684,19 @@ side of a blank 1SP wafer.
 
 --------------------------------------------------
 
-Aug 20:
+Sep 13:
 
-Cleaved several dies out of CrCu plated <110> wafer. Spin coated one in 50% SP24, soft baked 60 sec, exposed 10 mins
-using maglite, developed. Wet etched in full strength SC2, virtually no detectable overetch.
+Cleaved several dies out of a <110> wafer (SSP, 10nm Cr, 1000nm Cu) and spin coated with SP24 resist. Air dried, no soft bake.
 
-Attempted to bond die vertically using cyanoacrylate adhesive. Unsuccessful, tipped over and contaminated face. Stripped
-PR/glue in acetone and attempted to re-mount for inspection of copper.
+Exposed five dies with varying parameters using fiber optic illuminator at maximum brightness and min-space parallel-lines mask.
 
-Glued die horizontally to glass microscope cover slip using CA adhesive.
+I3: 10 mins, 10x objective. Severely overexposed.
+I4: 5 mins, 10x objective. Very good.
+I5: 5 mins, 40x objective. Overdeveloped.
+I6: 5 mins, 40x objective. Blurred.
+I7: 5 min, 10x objective. Very good.
 
-Repeated expose/develop/etch process on a fresh die, mounted in hot glue. Attempted to polish flat using 180 - 1500
-grit sandpaper followed by colloidal silica. Too much chipping, looks like sample needs to be completely buried before
-starting.
+Etched I4 and I7 in full strength SC2, no discernable overetch.
 
-Embedded die F9 in 6-minute epoxy resin. Something was wrong with proportions, epoxy did not harden completely.
-
-Spin coated CrCu plated <110> die in 50% SP24, soft baked 60 sec. Exposed nyan cat at 10x reduction for 10 mins,
-developed. Exposed nyan cat at 40x reduction for 11 mins, developed. Overdeveloped a little bit, 5um features were
-damaged but 20 survived. Need to repeat experiment.
-
-Wet etched in SC2.
-
-Wet etched in 30% KOH for 10 mins. Water bath started out at room temp and was placed on 80C hot plate.
-
-Inspected under optical microscope. No signs of attack to copper however Si was not etched very much. Returned to heat
-for another 10 mins.
-
-Copper appears to have bubbles from pinholes. Stripped in SC2.
-
-Si in exposed areas was somewhat attacked but not completely - possibly Cr incompletely etched? Returned to die tray, H9.
-
---------------------------------------------------
-
-Aug 27:
-
-Cleaned Cu plated <100> die with acetone, spin coated in 50% SP24, soft baked. Exposed 5 lambda grating pattern for 10
-mins at 10x reduction using maglite. Repeated at 40x.
-
-Maglite bulb burned out at unknown time during second exposure. Decided to develop anyway to see how it turned out.
-
-Image was, as expected, weak in most places due to underexposure. Heavy developing brought out some features.
-
-Etched in SC2, stripped in acetone. Imaged uner optical microscope.
-
-Returned to die tray, H10.
+Planning to X-section one and top-down image the other on JSM-840 SEM in the near future. Ideally, a cross-section sample prep
+method can be found which does not attack photoresist so edge profiles can be observed.
