@@ -700,3 +700,14 @@ Etched I4 and I7 in full strength SC2, no discernable overetch.
 
 Planning to X-section one and top-down image the other on JSM-840 SEM in the near future. Ideally, a cross-section sample prep
 method can be found which does not attack photoresist so edge profiles can be observed.
+
+--------------------------------------------------
+
+Sep 15:
+
+Performed two tests of double patterning (dies I8 and I9) at 10x reduction. Half-exposed areas were removed so only fully
+unexposed areas were left, rather than full and half.
+
+Wet etched I4 and I9 in SC2 until copper was removed, plus an extra ~15 seconds to remove Cr.
+
+Wet etched in KOH for 10-15 mins at ~80C in water bath. No etching of Si observed - Cr incompletely removed?
