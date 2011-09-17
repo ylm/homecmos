@@ -711,3 +711,11 @@ unexposed areas were left, rather than full and half.
 Wet etched I4 and I9 in SC2 until copper was removed, plus an extra ~15 seconds to remove Cr.
 
 Wet etched in KOH for 10-15 mins at ~80C in water bath. No etching of Si observed - Cr incompletely removed?
+
+--------------------------------------------------
+
+Sep 16:
+
+Attempted to polish a piece of copper-clad FR4 and <111> Si (unpolished solar wafer fragment) using Ted Pella diamond paste.
+Polishing definitely worked however deep gouges were observed in the sample. Suspected cause is large abrasive particles not
+being completely removed before going to smaller sizes.
