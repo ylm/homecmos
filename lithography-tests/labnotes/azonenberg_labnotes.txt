@@ -614,6 +614,20 @@ Etched in SC2. Overetched, possibly due to double exposure weakening resist. Ret
 
 --------------------------------------------------
 
+Jul 30:
+
+Etched Cu-coated glass substrate in 30% KOH for 10 mins, increasing heat from 50C to 80C. Copper did
+not visibly degrade but delaminated from substrate. Looks like an adhesion layer of some sort will
+be necessary for future experiments.
+
+Created dilute SC2 solution: 8 ml 3% H2O2 and 0.5 ml conc. HCl, tested with Cu-coated Si sample. Too
+strong.
+
+Diluted solution further - 1 ml of SC2 solution to 4 ml distilled water. Complete etch of film in
+around 8 sec.
+
+--------------------------------------------------
+
 Aug 06:
 
 Spin coated Cu-coated Si substrate in 50% SP24, soft baked.
