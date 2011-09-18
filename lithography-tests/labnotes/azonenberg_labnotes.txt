@@ -719,12 +719,12 @@ method can be found which does not attack photoresist so edge profiles can be ob
 
 Sep 15:
 
-Performed two tests of double patterning (dies I8 and I9) at 10x reduction. Half-exposed areas were removed so only fully
-unexposed areas were left, rather than full and half.
+Performed two tests of double patterning (dies I8 and I9) at 10x reduction with 2:30 time per exposure. Half-exposed areas were
+removed so only fully unexposed areas were left, rather than full and half.
 
 Wet etched I4 and I9 in SC2 until copper was removed, plus an extra ~15 seconds to remove Cr.
 
-Wet etched in KOH for 10-15 mins at ~80C in water bath. No etching of Si observed - Cr incompletely removed?
+Wet etched both in KOH for 10-15 mins at ~80C in water bath. No etching of Si observed - Cr incompletely removed?
 
 --------------------------------------------------
 
@@ -733,3 +733,16 @@ Sep 16:
 Attempted to polish a piece of copper-clad FR4 and <111> Si (unpolished solar wafer fragment) using Ted Pella diamond paste.
 Polishing definitely worked however deep gouges were observed in the sample. Suspected cause is large abrasive particles not
 being completely removed before going to smaller sizes.
+
+--------------------------------------------------
+
+Sep 18:
+
+Performed a test of double patterning (die 5I10) at 10x reduction. One minute per exposure. Severe line edge roughness,
+looks slightly underexposed. Wet etched in SC2 until copper was removed, returned to die tray.
+
+Most likely last test before SEM session. Dies to image:
+* I3 or I8: (cross section, need to SC2 before prep) empty disk with some traces of lines
+* I4: 20um lines in Cu:Cr over <110> Si, no resist, partial KOH etch not penetrating Si
+* I7: 20um lines in Cu:Cr over <110> Si, with resist.
+* I10: 20um lines in Cu:Cr over <110> Si, with resist, very rough sidewalls
