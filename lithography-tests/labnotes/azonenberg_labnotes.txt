@@ -746,3 +746,32 @@ Most likely last test before SEM session. Dies to image:
 * I4: 20um lines in Cu:Cr over <110> Si, no resist, partial KOH etch not penetrating Si
 * I7: 20um lines in Cu:Cr over <110> Si, with resist.
 * I10: 20um lines in Cu:Cr over <110> Si, with resist, very rough sidewalls
+
+--------------------------------------------------
+
+Sep 26:
+
+Began tests to determine how to remove Cr adhesion layer from trenches.
+
+Prepared several dies, <110> with Cu:Cr. Wet etched in SC2 for 5 mins at around 70C, rinsed. No visible surface film,
+copper was removed after only a few seconds. Subsequent KOH etch failed to attack the surface - Cr must still be there.
+
+Created new etch bath from 2 ml of conc. HCl. Placed die in at room temp, no attack of copper observed (as expected).
+
+Added a couple of drops of 3% H2O2 and stirred. Copper film dissolved rapidly. Left die in etch for several minutes
+to allow Cr to etch; then rinsed and etched in KOH. Die etched as expected - this looks like a good etch. Next step
+is to test if photoresist can mask it.
+
+Spin coated several <110> + Cu:Cr dies in 50% SP24.
+
+Exposed 50um line test pattern (4x) for 5 mins. Stepped sideways on die, exposed 20um lines (10x) for 5 mins.
+
+Etched in low-peroxide HCl:H2O2 for 60 sec. Copper was severely undercut.
+
+Etched in 30% KOH for 5 mins. Looks pretty good, seems that undercut Cu did not translate to damaged Cr.
+
+Stripped in SC2. Looks good except for some litho defects. Returned to die tray, J2.
+
+Exposed 20um lines for 4 mins at 10x, developed. Etched in low-peroxide HCl:H2O2 for 60 sec.
+
+Etched in 30% KOH for 30 mins:. Done at 00:00
