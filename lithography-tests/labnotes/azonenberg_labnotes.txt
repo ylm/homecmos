@@ -774,4 +774,13 @@ Stripped in SC2. Looks good except for some litho defects. Returned to die tray,
 
 Exposed 20um lines for 4 mins at 10x, developed. Etched in low-peroxide HCl:H2O2 for 60 sec.
 
-Etched in 30% KOH for 30 mins:. Done at 00:00
+Etched in 30% KOH for 30 mins. Cr was etched through in some spots (perhaps HCl etch was too long?) but overall a very
+good first die.
+
+Copper was attacked (though some traces were present in sporadic locations). This goes against data reported
+in several other sources indicating that KOH did not significantly attack copper - no explanation for this deviation yet.
+Possibly contamination in KOH or impure copper? Both were technical grade (drain cleaner and scrap AC power cord) and
+the KOH solution had been used several times before on different chips.
+
+Stripped last remaining Cu residue in SC2 (no attempt made to remove Cr hardmask residue) and photographed. Returned
+to die tray, J3.
