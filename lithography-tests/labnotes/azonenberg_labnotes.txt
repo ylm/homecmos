@@ -784,3 +784,16 @@ the KOH solution had been used several times before on different chips.
 
 Stripped last remaining Cu residue in SC2 (no attempt made to remove Cr hardmask residue) and photographed. Returned
 to die tray, J3.
+
+--------------------------------------------------
+
+Oct 21:
+
+Not much work done recently due to academic obligations.
+
+Spin coated 2-inch <110> wafer in 50% SP24, soft baked on low heat. Exposed comb drive die separation mask by contact
+lithography (germicidal tube) for 5 minutes, developed. Very good results but some PR contamination on back side of wafer
+observed.
+
+Cleaned back side of wafer with acetone. Full clean should probably be done after top side Cr evaporation and lift-off before
+coating reverse.
