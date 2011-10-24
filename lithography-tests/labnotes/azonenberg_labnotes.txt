@@ -797,3 +797,20 @@ observed.
 
 Cleaned back side of wafer with acetone. Full clean should probably be done after top side Cr evaporation and lift-off before
 coating reverse.
+
+--------------------------------------------------
+
+Oct 24:
+
+Evaporated ~1000nm Cr followed by ~100nm Cu over top side of wafer prepared on the 21st, flipped over and repeated for the back.
+
+Uneven Cr deposition on the bell jar of the evaporator was observed during the first evaporation - much higher near the top of
+the jar and very little near the samples. The top copper layer failed the "Scotch tape test". Reasons for the apparent failure
+of Cr deposition are unknown at this point.
+
+Lifted off hardmask layer in acetone with gentle rubbing. Copper peeled and tore, confirming poor adhesion.
+
+Etched wafer in KOH anyway to see what would happen, and test whether Cr was actually present. Copper dissolved almost
+immediately. Very slight masking was observed, but after a few minutes the etching was fairly uniform across the entire wafer.
+
+Experiment will need to be repeated.
